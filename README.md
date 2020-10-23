@@ -59,3 +59,4 @@ of all the entered search texts.
 
 8. **Exit** : On choosing this, the program execution is immediately terminated.
 
+_Open to all the discrete ideas which can progress this project._
